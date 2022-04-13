@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/layout/activity_edit_teman.xml" value="0.1983695652173913" />
+        <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/layout/activity_edit_teman2.xml" value="0.17074275362318841" />
         <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/layout/activity_teman_baru.xml" value="0.17074275362318841" />
         <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/layout/row_data_teman.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioFile/ClassBSqlite/app/src/main/res/menu/menu.xml" value="0.209375" />
       </map>
     </option>
   </component>
